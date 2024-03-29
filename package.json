@@ -1,0 +1,26 @@
+{
+  "name": "100xdevsassignments",
+  "version": "0.0.1",
+  "description": "all 100xdevassignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshsinha-12/100xdevsassignments.git"
+  },
+  "keywords": [
+    "harkirat",
+    "bhaiya",
+    "100x",
+    "Dev",
+    "Cohort2"
+  ],
+  "author": "Harsh Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshsinha-12/100xdevsassignments/issues"
+  },
+  "homepage": "https://github.com/harshsinha-12/100xdevsassignments#readme"
+}
